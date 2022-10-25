@@ -1,12 +1,2 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![94987193-0053d400-056d-11eb-97d2-f0319bbe27f6](https://user-images.githubusercontent.com/86551201/197801661-1fcfdfea-8e98-41cf-9bee-415b9f5235a9.jpeg)
